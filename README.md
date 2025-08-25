@@ -6,7 +6,7 @@
 ##### 👉Coming from Natham
  ## *EDUCATION*
 ##### NPR COLLEGE OF ENGINEERING AND TECHNOLOGY
- ##### *SKILLS*
+ ### *SKILLS*
 ##### PYTHON
 ##### SQL
 ##### MACHINE LEARNING
