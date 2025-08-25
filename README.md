@@ -1,3 +1,4 @@
+
 # HII! 🙋‍♀️I'MLATHIKA SRI V
 ## B. TECH (INFORMATION TECHNOLOGY)
 #### 🌈 *ABOUT ME*
@@ -33,3 +34,5 @@
 
 
  
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdsMnlwbG56dHBuam9kaDg3cXdud29zczA3amNpc3F2Y3UwbjJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp)
+![](https://media4.giphy.com/media/wz4jsOgrZgxHg8eUKf/200.webp)
