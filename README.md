@@ -2,7 +2,7 @@
 # HII! 🙋‍♀️I'MLATHIKA SRI V
 ## B. TECH (INFORMATION TECHNOLOGY)
 #### 🌈 *ABOUT ME*
-##### 👉IT student with skills in Python, SQL, and data analysis, aiming to build a career as a Data Scientist. Passionate about using data to solve problems and create actionable insights.
+##### 👉IT student with skills in Python, SQL, and data analysis, aiming to build a career as a Data Analyst. Passionate about using data to solve problems and create actionable insights.
 ##### 👉Coming from Natham
  # *EDUCATION*
 ##### NPR COLLEGE OF ENGINEERING AND TECHNOLOGY
